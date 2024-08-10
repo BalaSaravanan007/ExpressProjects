@@ -1,0 +1,44 @@
+ [
+      {
+        "id": "1",
+        "name": "Inception",
+        "img": "https://example.com/inception.jpg",
+        "year": 2010,
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "rating": 8.8
+      },
+      {
+        "id": "2",
+        "name": "The Dark Knight",
+        "img": "https://example.com/dark_knight.jpg",
+        "year": 2008,
+        "genre": ["Action", "Crime", "Drama"],
+        "rating": 9.0
+      },
+      {
+        "id": "3",
+        "name": "Interstellar",
+        "img": "https://example.com/interstellar.jpg",
+        "year": 2014,
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "rating": 8.6
+      },
+      {
+        "id": "4",
+        "name": "The Matrix",
+        "img": "https://example.com/matrix.jpg",
+        "year": 1999,
+        "genre": ["Action", "Sci-Fi"],
+        "rating": 8.7
+      },
+      {
+        "id": "5",
+        "name": "Pulp Fiction",
+        "img": "https://example.com/pulp_fiction.jpg",
+        "year": 1994,
+        "genre": ["Crime", "Drama"],
+        "rating": 8.9
+      }
+]
+
+  
